@@ -25,4 +25,5 @@ require("plugins.comment")
 require("plugins.bufferline")
 -- 侧边栏可以显示git信号
 require("plugins.gitsigns")
+-- 文件检索
 require("plugins.telescope")
